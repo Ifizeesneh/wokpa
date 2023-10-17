@@ -5,7 +5,7 @@ import Category from './pages/category/Category'
 
 export default function Home() {
   return (
-    <main className="overflow-hidden flex items-center">
+    <main className="overflow-hidden">
     <Dashboard>
     <Header />
     <Category />

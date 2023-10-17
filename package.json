@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.5.1",
     "next": "13.5.5",
     "react": "^18",
     "react-dom": "^18"
